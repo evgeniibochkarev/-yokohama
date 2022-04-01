@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6a373f3.css",
+    "main.js": "/static/js/main.6b53fe3d.js",
+    "static/media/comp.jpg": "/static/media/comp.a12dfec340e4905cbd86.jpg",
+    "static/media/mojka1.jpg": "/static/media/mojka1.4c22e26729d52805d95e.jpg",
+    "static/media/razval.jpg": "/static/media/razval.62f3738cd35481c09cd7.jpg",
+    "static/media/hod.jpg": "/static/media/hod.f71ea5696ae944800bf4.jpg",
+    "static/media/baner-img.png": "/static/media/baner-img.07b7411b4c9569a9da46.png",
+    "static/media/hranenie.jpg": "/static/media/hranenie.ccf91089fcdd9663f648.jpg",
+    "static/media/sto.jpg": "/static/media/sto.80292424980968fd9ba4.jpg",
+    "static/media/shinomontazh1.jpg": "/static/media/shinomontazh1.edd431a93411c0d04db6.jpg",
+    "static/media/wheel.png": "/static/media/wheel.08d25381e9d6fa313381.png",
+    "static/media/cards.png": "/static/media/cards.87bc35a6e2c3a43e43f1.png",
+    "static/media/logo.svg": "/static/media/logo.edd7a963d1ea136f20093f9cd85583c8.svg",
+    "static/media/basket_red.svg": "/static/media/basket_red.45675a73770dd6bb751c2097dd59e7eb.svg",
+    "static/media/basket_black.svg": "/static/media/basket_black.23d4121508f1ab9020b07a7bb09bd99d.svg",
+    "index.html": "/index.html",
+    "main.a6a373f3.css.map": "/static/css/main.a6a373f3.css.map",
+    "main.6b53fe3d.js.map": "/static/js/main.6b53fe3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a373f3.css",
+    "static/js/main.6b53fe3d.js"
+  ]
+}
